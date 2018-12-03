@@ -1,54 +1,44 @@
 ---
 # Personal details
-name: Friedrich Nietzsche
+name: Michael James Musty
 address:
-- Humboldtstraße 36
-- 99425 Weimar
-- Prussia
-phone: "+49 03643 545400"
-email: friedrich@thevoid.de
-# Insert URLs without http://
+- 55 Church Street
+- Piermont, NH 03779, USA
+phone: "+1 603 728 7903"
+email: michaelmusty@gmail.com
+# Insert URLs
 urls:
-- wki.pe/friedrich_nietzsche
-- twitter.com/tinynietzsche
+- https://math.dartmouth.edu/~mjmusty
+- https://www.linkedin.com/in/mjmusty/
+- https://github.com/michaelmusty/
 
 # Sections
 
-intro: "I know my fate. One day my name will be associated with the memory of something tremendous --- a crisis without equal on earth, the most profound collision of conscience, a decision that was conjured up against everything that had been believed, demanded, hallowed so far. I am no man, I am dynamite."
+# intro: "I'm a blah"
 
-skills:
-- Aesthetics, Ethics, Metaphysics, Nihilism
-- Psychology, Ontology, Poetry, Value theory
-- Voluntarism, Tragedy, Fact–value distinction
-- Anti-foundationalism, Philosophy of history
+# skills:
+# - blah
+
+education:
+- year: 2019
+  subject: Ph.D. in Mathematics
+  institute: Dartmouth College
+  city: Hanover, New Hampshire
+- year:
+  subject: Abitur
+  institute: Schulpforta
+  city: Naumburg
 
 experience:
 - years: 1879--1889
   employer: Freiberufler
   job: Freier Philisoph
   city: Sils-Maria
-- years: 1869–-1879
-  employer: Universität Basel
-  job: Professor für klassische Philologie
-  city: Basel
-- years: 1867--1868
-  employer: Preußischen Artillerie
-  job: Kanonier
-  city: Naumburg
-
-education:
-- year: 1867
-  subject: Philology
-  institute: Leipzig Universität
-  city: Leipzig
-- year: 1864
-  subject: Abitur
-  institute: Schulpforta
-  city: Naumburg
 
 # Settings
-mainfont: Hoefler Text
+# mainfont: DejaVuSerif
+mainfont: LiberationSansNarrow
 fontsize: 10pt
-lang: English
+lang: en-US
 geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
 ---
